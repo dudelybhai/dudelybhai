@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 
-
-- 👯 I’m looking to collaborate on Freelance Projects
-- 💬 Ask me about Technology 
 - 📫 How to reach me: 📧 dudelybhai@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
