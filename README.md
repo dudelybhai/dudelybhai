@@ -28,12 +28,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai&show_icons=true&locale=en&theme=chartreuse-dark" />
 </a>
 
 ---
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudelybhai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
