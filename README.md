@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
 ---
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -15,6 +16,7 @@
 <a href="mailto:dudelybhai@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dudelybhai_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
 ---
 
 ### 🛠 &nbsp;Tech Stack
