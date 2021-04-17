@@ -127,7 +127,12 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=dudelybhai&theme=juicyfresh&no-bg=true" />
 
+---
 
+```
+Turning challenges into opportunities
+```
+![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
