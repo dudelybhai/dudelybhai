@@ -5,7 +5,10 @@
 <h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudelybhai" alt="akhilgkrishnan" /> </p>
-
+![age](https://img.shields.io/badge/age-25-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-Chennai-3c9)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=dudelybhai.github.profile)
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
