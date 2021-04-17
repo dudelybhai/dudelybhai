@@ -30,7 +30,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<h3 align="left">Support:</h3>
+
+###&nbsp;Support:
 <p><a href="https://www.buymeacoffee.com/dudelybhai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dudelybhai" /></a></p><br><br>
 
 
