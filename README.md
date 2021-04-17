@@ -37,24 +37,23 @@
 
 
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Mohammed Safi'
-	current_edu = "Bachelor of Computer Science"
-	hobbies = [
-				'Cycling',
-				'Reading Dev Blogs',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Chennai_India()
-	
-	def Ambitions():
-		LearnML()
-		EthicalHacker()
-		RunACompany()
- ```
+import SoftwareDeveloper from 'mohammedsafi';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Mohammed Safi';
+  title    = 'Technical Lead';
+  company  = 'Cosmic Consultancy | Onsite';
+  location = 'Chennai, IND';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Python', 'Dart', 'PHP'];
+  dataBases  = ['MySQL', 'MongoDB'];
+  frameWorks = ['React', 'React Native', 'Angular', 'NodeJS', 'Express', 'Django', 'Flutter', 'Wordpress'];
+  cssFrameWorks = ['Bootstrap', 'Materialize', 'Tailwind', 'Ant Design'];
+  versionControl = ['GIT']
+  ide = ['vscode','AndroidStudio', 'xcode']
+}
  
  ---
  
