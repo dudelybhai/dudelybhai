@@ -4,6 +4,7 @@
 
 <h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
 ---
 ### 🤝🏻 &nbsp;Connect with Me
