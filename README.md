@@ -1,6 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 
-- 📫 How to reach me: 📧 dudelybhai@gmail.com
+
+![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)
+
+<your_bio>
+
+---
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai" />
