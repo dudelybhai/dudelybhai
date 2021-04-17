@@ -17,6 +17,14 @@
 <a href="https://instagram.com/dudelybhai_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
+---
+
+## :computer: Technologies I Love
+* ReactJS/ReactNative/Flutter/Angular/Django
+* Machine Learning
+* Cyber Security
+* Frontend and Backend Web Development
+
 
 
 ---
