@@ -6,6 +6,7 @@
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudelybhai" alt="akhilgkrishnan" /> </p>
+
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Chennai-3c9)
