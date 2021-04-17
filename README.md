@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 </h3>
@@ -49,9 +48,9 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai" />
-</a>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ---
 
