@@ -50,7 +50,6 @@
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai" />
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ---
 
@@ -65,6 +64,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=dudelybhai&theme=juicyfresh&no-bg=true" />
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
