@@ -86,6 +86,7 @@
    <img src="https://img.shields.io/badge/Clickups%20-%23F7DF1E.svg?&style=for-the-badge&color=2881FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Twillio%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Windows Server%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
@@ -95,7 +96,7 @@
    <img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GCP%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Windows Server%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
+ 
 </p>
 
 
