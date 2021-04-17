@@ -37,6 +37,7 @@
 
 
  ## Who am I?
+ ```js
 import SoftwareDeveloper from 'mohammedsafi';
 
 class Bio extends SoftwareDeveloper {
@@ -54,6 +55,7 @@ class Skills extends SoftwareDeveloper {
   versionControl = ['GIT']
   ide = ['vscode','AndroidStudio', 'xcode']
 }
+```
  
  ---
  
