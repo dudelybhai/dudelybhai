@@ -29,6 +29,29 @@
 
 ---
 
+
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Mohammed Safi'
+	current_edu = "Bachelor of Computer Science"
+	hobbies = [
+				'Cycling',
+				'Reading Dev Blogs',
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Chennai_India()
+	
+	def Ambitions():
+		LearnML()
+		EthicalHacker()
+		RunACompany()
+ ```
+ 
+ ---
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
