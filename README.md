@@ -136,6 +136,9 @@ Turning challenges into opportunities
 ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
