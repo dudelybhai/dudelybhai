@@ -137,8 +137,7 @@ Turning challenges into opportunities
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-- name: Waka - Readme
-  uses: athul/waka-readme@v0.1.5
+
 
 
 <!--
