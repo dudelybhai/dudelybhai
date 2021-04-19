@@ -137,7 +137,9 @@ Turning challenges into opportunities
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 April, 2021 - 18 April, 2021
+
+JavaScript   3 hrs           █████████████████████████   99.95 % 
 ```
 <!--END_SECTION:waka-->
 
