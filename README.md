@@ -137,12 +137,13 @@ Turning challenges into opportunities
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 April, 2021 - 19 April, 2021
+Week: 13 April, 2021 - 20 April, 2021
 
-JavaScript   3 hrs 37 mins   ██████████████████████▒░░   89.57 % 
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Python       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JavaScript   6 hrs 39 mins   ████████████████████▓░░░░   82.46 % 
+Python       1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
