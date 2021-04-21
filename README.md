@@ -112,7 +112,17 @@ class Skills extends SoftwareDeveloper {
 ---
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dudelybhai" />
+  <!--START_SECTION:waka-->
+```text
+Week: 13 April, 2021 - 20 April, 2021
+
+JavaScript   6 hrs 39 mins   ████████████████████▓░░░░   82.46 % 
+Python       1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+<!--END_SECTION:waka-->
 
 ---
 
@@ -135,17 +145,7 @@ Turning challenges into opportunities
 ```
 ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
 
-<!--START_SECTION:waka-->
-```text
-Week: 13 April, 2021 - 20 April, 2021
 
-JavaScript   6 hrs 39 mins   ████████████████████▓░░░░   82.46 % 
-Python       1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-```
-<!--END_SECTION:waka-->
 
 
 
