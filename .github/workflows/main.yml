@@ -17,6 +17,5 @@ jobs:
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
          SHOW_TITLE: true
          SHOW_OS: true
-         SHOW_TIMEZONE: true
          SHOW_EDITORS: true
          
