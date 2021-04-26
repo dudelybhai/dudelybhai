@@ -27,7 +27,7 @@
 
 ## :computer: Technologies I Love
 * ReactJS/ReactNative/Flutter/Angular/Django
-* Machine Learning
+* Machine Learning/Deep Learning
 * Cyber Security
 * Frontend and Backend Web Development
 
