@@ -114,13 +114,13 @@ class Skills extends SoftwareDeveloper {
 
   <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
-JavaScript   48 hrs 18 mins  ████████████████████████▓   98.92 % 
-Bash         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript   45 hrs 59 mins  ███████████████████████▒░   93.25 % 
+YAML         1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Docker       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
