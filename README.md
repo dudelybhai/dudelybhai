@@ -114,13 +114,13 @@ class Skills extends SoftwareDeveloper {
 
   <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
-XML          16 mins         ██████████▒░░░░░░░░░░░░░░   40.86 % 
-JavaScript   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.82 % 
-Groovy       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Java         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+JavaScript   19 mins         ██████████▓░░░░░░░░░░░░░░   42.29 % 
+XML          16 mins         █████████░░░░░░░░░░░░░░░░   36.18 % 
+Groovy       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Java         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
