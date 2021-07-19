@@ -114,7 +114,7 @@ class Skills extends SoftwareDeveloper {
 
   <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
 JavaScript   5 mins          █████████████████████████   100.00 % 
 ```
