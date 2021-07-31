@@ -114,9 +114,7 @@ class Skills extends SoftwareDeveloper {
 
   <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
