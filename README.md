@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<a href="https://app.daily.dev/dudelybhai"><img src="https://api.daily.dev/devcards/07b16a66f2a54794bb2d1fae54206789.png?r=a8n" width="400" alt="Mohammed Safi's Dev Card"/></a>
 
 <h3 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammed Safi!
 </h3>
