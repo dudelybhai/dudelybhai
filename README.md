@@ -43,8 +43,8 @@ import SoftwareDeveloper from 'mohammedsafi';
 class Bio extends SoftwareDeveloper {
   name     = 'Mohammed Safi';
   title    = 'Technical Lead';
-  company  = 'Cosmic Consultancy | Onsite';
-  location = 'Chennai, IND';
+  company  = 'Digitzen | Onsite';
+  location = 'Singapore, SG';
 }
 
 class Skills extends SoftwareDeveloper {
