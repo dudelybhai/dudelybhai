@@ -10,7 +10,7 @@
 ![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Chennai-3c9)
-![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/dudelybhai.github.profile/visits)
+
 
 
 ---
