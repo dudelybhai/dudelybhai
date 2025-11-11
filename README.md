@@ -7,10 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudelybhai" alt="akhilgkrishnan" /> </p>
 
-![age](https://img.shields.io/badge/age-25-blue)
+![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Chennai-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=dudelybhai.github.profile)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/dudelybhai.github.profile/visits)
+
 
 ---
 
